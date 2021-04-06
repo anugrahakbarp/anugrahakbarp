@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anugrahakbarp
 - 👀 I’m interested in Computer Vision, NLP, and Other Challenging Task.
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me linkedin.com/in/anugrahakbarp
+- 💞️ I’m looking to collaborate on Github
+- 📫 How to reach me: linkedin.com/in/anugrahakbarp
 
 <!---
 anugrahakbarp/anugrahakbarp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
